@@ -1609,6 +1609,24 @@
         "online radio",
         "internet radio"
       ]
+    },
+    {
+      "name": "Match Game",
+      "thumb": "match/thumb.png",
+      "desc": "Simple matching game",
+      "url": "http://match.imcotton.com",
+      "info": "https://github.com/imcotton/match/blob/master/README.md",
+      "src": "https://github.com/imcotton/match",
+      "submitter": "imcotton",
+      "submissionDate": "2013-07-04",
+      "tags": [
+        "Production",
+        "Game",
+        "CoffeeScript", "Literate CoffeeScript", "LESS",
+        "No jQuery",
+        "Open Source",
+        "Tests Included"
+      ]
     }
   ]
 }
